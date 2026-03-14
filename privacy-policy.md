@@ -12,4 +12,5 @@ Contact
 If you have questions about this privacy policy, you may contact the developer.
 
 Morten Harding
+
 mailto: morten at harding dot dk
