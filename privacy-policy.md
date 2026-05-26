@@ -1,6 +1,6 @@
 Privacy Policy
 
-iGopher+ does not collect, store, or share any personal information.
+Gopher+ does not collect, store, or share any personal information.
 No user data is transmitted to external servers. The app does not use analytics, advertising frameworks, or tracking technologies.
 
 If you contact the developer by email, your email address will only be used to respond to your inquiry and will not be stored or shared.
